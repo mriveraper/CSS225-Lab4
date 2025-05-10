@@ -1,1 +1,1 @@
-# This was made as an assignment for my class
+# This was made as an assignment for the class I am in
